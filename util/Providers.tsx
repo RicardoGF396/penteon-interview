@@ -7,7 +7,7 @@ type ProviderProps = {
   children: ReactNode;
 };
 
-export default function QueryProvider({ children }: ProviderProps) {
+export function QueryProvider({ children }: ProviderProps) {
   const [queryClient] = useState(() => new QueryClient());
   return (
     <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
