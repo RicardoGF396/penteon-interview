@@ -1,4 +1,6 @@
-# Next.js Project
+![Screenshot 2024-09-26 at 7 01 56 p m](https://github.com/user-attachments/assets/c0b7c9c6-b09a-4986-a2f3-f0309d1695b0)
+
+# Cat Fun Facts - Interview
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -60,3 +62,11 @@ Make sure to never commit this file to version control if it contains sensitive 
 
 
 ## Captures
+![Screenshot 2024-09-26 at 7 01 56 p m](https://github.com/user-attachments/assets/c0b7c9c6-b09a-4986-a2f3-f0309d1695b0)
+
+![Screenshot 2024-09-26 at 7 01 32 p m](https://github.com/user-attachments/assets/5a56b633-5ff6-4b53-9fac-be28d25c03ab)
+
+![Screenshot 2024-09-26 at 7 01 21 p m](https://github.com/user-attachments/assets/c34b18ed-6460-41e0-b8ef-3cd62f128550)
+
+
+
