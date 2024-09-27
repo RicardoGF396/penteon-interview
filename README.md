@@ -1,4 +1,6 @@
-# Next.js Project
+![Screenshot 2024-09-26 at 7 01 56 p m](https://github.com/user-attachments/assets/225430e0-895b-48da-a9fe-2fbe6767a24c)
+
+# Cat Fun Facts
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -45,7 +47,7 @@ npm run dev
 The app should now be running at http://localhost:3000.
 
 
-## Adding the .env File
+## Adding the env File
 
 1. Create a .env file in the root of your project.
 2. Add the environment variables you need:
@@ -60,3 +62,11 @@ Make sure to never commit this file to version control if it contains sensitive 
 
 
 ## Captures
+
+![Screenshot 2024-09-26 at 7 01 56 p m](https://github.com/user-attachments/assets/225430e0-895b-48da-a9fe-2fbe6767a24c)
+***
+![Screenshot 2024-09-26 at 7 01 32 p m](https://github.com/user-attachments/assets/c89f17d1-c8f7-4d6b-8c63-83d952d93c3a)
+***
+![Screenshot 2024-09-26 at 7 01 21 p m](https://github.com/user-attachments/assets/df7b9ac7-36ee-4139-8204-7f35d91786a3)
+
+
