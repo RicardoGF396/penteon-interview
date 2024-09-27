@@ -1,36 +1,62 @@
+# Next.js Project
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Table of Contents
+1. [Running the Project](#running-the-project)
+2. [Adding the `.env` File](#adding-the-env-file)
+3. [Captures](#captures)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Running the Project
+
+To run the project in a local development environment, follow these steps:
+
+1. Clone the repository:
+
+```
+git clone https://github.com/RicardoGF396/penteon-interview.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Navigate to the project directory:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+cd your-project
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. Install the dependencies:
 
-## Learn More
+```
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
 
-To learn more about Next.js, take a look at the following resources:
+3. Start the development server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The app should now be running at http://localhost:3000.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Adding the .env File
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Create a .env file in the root of your project.
+2. Add the environment variables you need:
+
+```
+NEXT_PUBLIC_CAT_FACTS_API_URL=https://catfact.ninja
+NEXT_PUBLIC_RANDOM_USER_API_URL=https://randomuser.me
+
+```
+
+Make sure to never commit this file to version control if it contains sensitive information.
+
+
+## Captures
